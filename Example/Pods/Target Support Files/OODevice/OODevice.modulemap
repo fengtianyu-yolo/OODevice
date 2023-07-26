@@ -1,0 +1,6 @@
+framework module OODevice {
+  umbrella header "OODevice-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - OODevice (0.1.0)
+
+DEPENDENCIES:
+  - OODevice (from `../`)
+
+EXTERNAL SOURCES:
+  OODevice:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OODevice: 8af1a85d0aef5996d5c702570b54dc443efee91e
+
+PODFILE CHECKSUM: e9bc5beddb76159d9c74bd1e21b80524517a78de
+
+COCOAPODS: 1.12.1
