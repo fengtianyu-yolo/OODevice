@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'OODevice_Example' do
+  pod 'OODevice', :path => '../'
+
+  target 'OODevice_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
